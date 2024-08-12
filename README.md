@@ -4,15 +4,15 @@ Dusting Attack"or "Crypto Dust". Perhaps every cryptocurrency user or holder of 
 
 To carry out a dust attack, confirmation of isomorphism miners play an important role  many cryptocurrency services and hardware wallets are actively fighting the dust attack.
 
-Download the source code, install get-pip.py and also run install py  to install packages
+![2D078B49-1D4C-40C0-9065-B49E58FAD9B4](https://github.com/user-attachments/assets/ad443995-71d9-42f7-8210-f6150f28dc0f)
 
-• ‘Zmq’
-• ‘Urllib3’
-• ‘Request’
-• ‘Bitcoinutils
-• ‘Bitcoinaddress’
+**Zmq’
+Urllib3
+Request
+Bitcoinutils
+Bitcoinaddress**
 
-Run the script: creatrawtransaction.py 
+**Run the script: creatrawtransaction.py**
 
 from io import BytesIO
 from secp256k1 import 
@@ -36,13 +36,13 @@ signature(tx, 0, pk)
 tx.serialize().hex()
 
 
-Feature’s Of The Software;
+**Feature’s Of The Software;**
 * 100% Anonymity 
 * PDF Tutorial Guide On How To Use
 * Support Pc With Window 10 Installed
 * Support All Crypto Wallet
 
-Contact Admin On WhatsApp If Interested Only! 
+**Contact Admin On WhatsApp If Interested Only!**
 
 +491632827259
 
