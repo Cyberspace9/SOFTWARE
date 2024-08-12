@@ -6,11 +6,16 @@ To carry out a dust attack, confirmation of isomorphism miners play an important
 
 ![2D078B49-1D4C-40C0-9065-B49E58FAD9B4](https://github.com/user-attachments/assets/ad443995-71d9-42f7-8210-f6150f28dc0f)
 
-**Zmq’
+Zmq’
+
 Urllib3
+
 Request
+
 Bitcoinutils
-Bitcoinaddress**
+
+Bitcoinaddress
+
 
 **Run the script: creatrawtransaction.py**
 
