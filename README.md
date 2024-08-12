@@ -1,4 +1,4 @@
-Crypto (btc) wallet dust attack software tool | bitcoin dust attack software generator 
+Crypto (btc) wallet hacking software tool | bitcoin dust attack software generator 
 
 Dusting Attack"or "Crypto Dust". Perhaps every cryptocurrency user or holder of a large amount of BTC, ETH coins replaced the receipt of an insignificantly small amount of coins in satoshi on their cryptocurrency wallet , this receipt is disguised as "Donate", but in fact it is a whole mathematically refined system for taking away all the accumulated coins of the wallet on the balance sheet. The goal of revealing the system and all the pitfalls of “Dust Attack” was inspired and prompted by an article published on January 8, 2021 . on the global cryptoeconomics website CoinDesk
 
