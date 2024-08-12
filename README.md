@@ -44,7 +44,7 @@ Feature’s Of The Software;
 
 Contact Admin On WhatsApp If Interested Only! 
 
-{+491632827259}
+wa.me/+491632827259
 
 Ffird10@gmail.com 
 
